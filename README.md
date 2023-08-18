@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @qiutiancai49
+- 👀 I’m interested in Python enthusiast with a keen interest in machine learning and AI. 
+- 🌱 I’m currently learning Committed to continuous growth and learning.
